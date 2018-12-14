@@ -10,7 +10,7 @@ int main()
 {
 	float m, n;
 	printf("Entre com dois numeros: ");
-	scanf ("%f + %f", &m, &n);
+	scanf ("%f%f", &m, &n);
 	printf("%g + %g = %g", m, n, funcao(m,n));
 	return 0;
 }
