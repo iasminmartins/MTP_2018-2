@@ -1,6 +1,3 @@
-/* P0.c */
-/* iasmin */
-/* 11811EBI003 */
 #include <stdio.h>
 
 int main(int argc, char **argv) {
